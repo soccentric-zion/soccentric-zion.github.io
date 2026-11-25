@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soccentric-zion.github.io/sitemap.xml
